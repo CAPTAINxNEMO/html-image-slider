@@ -1,0 +1,5 @@
+Animation:
+Added a Fading animation when switching between slides.
+
+More Info:
+Added a WikiPedia link for the respective slides in the Description which opens in a New Tab.
